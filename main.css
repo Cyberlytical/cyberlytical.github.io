@@ -40,3 +40,8 @@ h2 {
 	bottom: 150px;
 	width: 100%;
 }
+
+img {
+	margin-top: 15px;
+	border-radius: 50%;
+  }
